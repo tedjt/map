@@ -1,12 +1,16 @@
 
-# map-keys
+# map
  
-  Re-maps keys in an object to achieve sanity.
+  Map keys in an object to achieve sanity.
+
+## Installation
+
+    $ npm install ivolo/map
 
 ## Example
 
 ```js
-var map = require('map-keys');
+var map = require('map');
 
 var obj = { 
   peoples: 1,

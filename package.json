@@ -1,9 +1,9 @@
 {
-  "name": "map-keys",
-  "version": "0.0.1",
-  "repository": "git://github.com/segmentio/map-keys.git",
+  "name": "map",
+  "version": "0.1.0",
+  "repository": "git://github.com/ivolo/map.git",
   "license": "MIT",
-  "description": "Re-maps keys in an object to achieve sanity.",
+  "description": "Map keys in an object to achieve sanity.",
   "keywords": [
     "map",
     "object"
