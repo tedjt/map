@@ -36,7 +36,7 @@ map(obj, schema);
 
 ## API
 
-#### .map(obj, schema)
+#### map(obj, schema)
 
   Return another object with the `obj` keys mapped according to the `schema`.
 
