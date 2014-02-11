@@ -1,11 +1,11 @@
 {
-  "name": "map",
+  "name": "remap",
   "version": "0.1.0",
-  "repository": "git://github.com/ivolo/map.git",
+  "repository": "git://github.com/tedjt/map.git",
   "license": "MIT",
   "description": "Map keys in an object to achieve sanity.",
   "keywords": [
-    "map",
+    "remap",
     "object"
   ],
   "dependencies": {
